@@ -7,6 +7,7 @@
 
 .main__header {
     align-self: center;
+    user-select: none;
 }
 
 a {
