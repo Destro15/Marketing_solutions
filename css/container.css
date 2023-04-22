@@ -73,3 +73,10 @@ a {
   scroll-snap-align: center;
   min-width: 20rem;
 }
+
+.container__main {
+  padding: 100px;
+  font-size: 26px;
+  border-bottom: solid black 8px;
+  border-top: solid black 8px;
+}
