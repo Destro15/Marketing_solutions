@@ -32,3 +32,26 @@ a {
     
     font-size: 20px;
   }
+
+.container__img {
+  background-image: url(/img/BG.png);
+  background-size: cover;
+  
+}
+
+.template__header {
+  font-size: 30px;
+}
+
+.gallery {
+  display: flex;
+  overflow-x: scroll;
+  scroll-snap-type: mandatory;
+}
+
+.gallery div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  scroll-snap-align: center;
+}
