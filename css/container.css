@@ -2,7 +2,8 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    border-bottom: solid rgb(0, 0, 0);
+    border-bottom: solid rgb(0, 0, 0) 8px;
+    letter-spacing: 2px;
 }
 
 .main__header {
@@ -35,9 +36,16 @@ a {
   }
 
 .container__img {
-  background-image: url(/img/BG.png);
+  background-image: url(/img/MARKETING_FOR_DESTRO.png);
+  height: 100vh;
   background-size: cover;
+  background-repeat: no-repeat;
   
+}
+
+.container__projects{
+  padding-top:  10px;
+  border: solid black 8px;
 }
 
 .template__header {
