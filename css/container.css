@@ -45,7 +45,8 @@ a {
 
 .container__projects{
   padding-top:  10px;
-  border: solid black 8px;
+  border-top: solid black 8px;
+  border-bottom: solid black 8px;
 }
 
 .template__header {
