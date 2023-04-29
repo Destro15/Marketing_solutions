@@ -15,3 +15,11 @@ html {
     background: linear-gradient(to right, rgb(26 118 255 / 80%), rgba(122, 122, 122, 0.397));
   
 }
+
+.body__typ {
+    font-family: 'Anuphan', sans-serif;
+    background-color: teal;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 5px;
+}
