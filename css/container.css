@@ -86,7 +86,7 @@ a {
 }
 
 .container__main {
-  background-color: teal;
+  background-color: rgb(0, 179, 179);
   padding: 100px;
   font-size: 26px;
   border-bottom: solid black 8px;
