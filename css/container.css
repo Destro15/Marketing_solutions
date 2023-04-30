@@ -1,5 +1,5 @@
 .container__nav {
-  background-color: rgb(255, 255, 255);
+  background-color: azure;
     display: flex;
     flex-direction: row;
     justify-content: space-around;

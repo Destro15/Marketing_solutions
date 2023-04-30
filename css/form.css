@@ -1,5 +1,5 @@
 .container__form {
-  background-color: orange;
+  background: linear-gradient(to right, rgba(146, 190, 255, 0.8), rgba(255, 218, 53, 0.918));
 }
 
 .form{
