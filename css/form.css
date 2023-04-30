@@ -1,7 +1,12 @@
+.container__form {
+  background-color: orange;
+}
+
 .form{
   padding-top: 25px;
   font-size: 23px;
   margin-left: 20px;
+  
 }
 
 .form__label {
@@ -25,5 +30,5 @@
     cursor: pointer;
   }
   .form__input[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #202020;
   }
