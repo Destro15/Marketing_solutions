@@ -1,10 +1,11 @@
 .footer {
-    margin-top: 5px;
+    margin-top: px;
     font-size: 20px;
     border-top: solid black 8px;
     text-align: center;
     height: 10vh;
-    padding-top: px;
+    padding-top: 1rem;
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
+    border-top: solid 8px white;
 }

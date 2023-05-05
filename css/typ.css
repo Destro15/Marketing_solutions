@@ -6,12 +6,17 @@ html {
     box-sizing: inherit;
 }
 
+*{ 
+    margin: 0;
+    padding: 0;
+}
 
 
 .container__typ--img {
     
     background-image: url(/img/thANKYO2.png);
-    background-position: 1%;
+   
+    background-position: center center;
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -27,11 +32,10 @@ html {
 
     .container__typ--img{
         
-        background-position: 103%;
+        background-position: 1%;
         background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
-    width: 100vh;
+    
     
     }
   }
