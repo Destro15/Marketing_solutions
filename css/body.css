@@ -7,10 +7,11 @@
 .body{
     font-family: 'Anuphan', sans-serif;
     margin: 0 auto;
-    
-    
-  
 }
+
+.blur {
+    filter: blur(200px);
+  }
 
 .body__typ {
     font-family: 'Anuphan', sans-serif;
